@@ -53,7 +53,7 @@ MongoClient.connect(url, { useNewUrlParser: true, poolSize:10 }, function(err, d
 
     dbase.createCollection('users', function (err, res) {
         if (err) throw err;
-        console.log(" users 创建集合!");
+        console.log(" users  创建集合!");
         db.close();
     });
 
