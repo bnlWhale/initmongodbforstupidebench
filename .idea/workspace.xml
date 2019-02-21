@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24b87661-6022-423d-a43e-b4b9f2d569e6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="24b87661-6022-423d-a43e-b4b9f2d569e6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="InitMongodbForStupideBench.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="InitMongodbForStupideBench.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/InitMongodbForStupideBench.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -25,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="garden.categories.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="garden.categories.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/garden.categories.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -122,15 +120,16 @@
       <option name="presentableId" value="Default" />
       <updated>1550706171989</updated>
       <workItem from="1550706173424" duration="59000" />
-      <workItem from="1550707573245" duration="10974000" />
+      <workItem from="1550707573245" duration="11235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11033000" />
+    <option name="totallyTimeSpent" value="11294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -165,15 +164,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/garden.categories.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/InitMongodbForStupideBench.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garden.categories.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
